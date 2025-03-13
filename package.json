@@ -1,6 +1,9 @@
 {
 	"author": "Singo Phuluso",
 	"description": "A project to learn npm",
+  "keywords": ["freecodecamp", "learn", "npm", "Node.js"],
+  "license": "MIT",
+  "version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
