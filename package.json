@@ -1,6 +1,6 @@
 {
-	"author": "Singo Phulus",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Singo Phuluso",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
